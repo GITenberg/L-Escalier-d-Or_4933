@@ -1,0 +1,24 @@
+_repo: L-Escalier-d-Or_4933
+creator:
+  author:
+    agent_name: Jaloux, Edmond
+    birthdate: 1878
+    deathdate: 1949
+    gutenberg_agent_id: '1594'
+    url: http://www.gutenberg.org/2009/agents/1594
+    wikipedia: http://fr.wikipedia.org/wiki/Edmond_Jaloux
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4933'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: L'Escalier d'Or
+url: http://www.gutenberg.org/ebooks/4933
